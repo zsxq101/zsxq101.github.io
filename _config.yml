@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: 2019付费/免费精选知识星球推荐及返佣
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,9 +9,10 @@ url: "https://zsxq101.github.io" # the base hostname & protocol for your site, e
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: 知识星球推荐官
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: 2019 付费/免费 精选知识星球 推荐 及 返佣
+  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
