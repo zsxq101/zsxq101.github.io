@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '2019付费/免费精选知识星球推荐及返佣'
-description: '自动化信息差套利系统架构师'
-keyword: '套利, 信息差, 信息差套利'
+description: '付费知识星球免费知识星球知识星球知识付费社群推荐返现返佣折扣'
+keyword: '知识星球, 付费星球, 免费星球, 星球推荐, 返现返佣折扣'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: '森淼'
 # nickname: '悟空'
-bio: '自动化信息差套利系统架构师'
+bio: '知识星球推荐官'
 avatar: '/assets/img/profile.png'
 
 # Search
