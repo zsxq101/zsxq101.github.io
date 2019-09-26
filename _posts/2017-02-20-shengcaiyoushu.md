@@ -35,7 +35,7 @@ tags: 赚钱 营销 产品 运营 技术 成长
 
 添加站长助理微信（jiajia96jiajia）发送付款截图 3 日内未退出可获得 110% 返佣（50% 现金 及 60% 代金券），规则。
 
-[![shengcai-yiren-s.jpg](https://i.postimg.cc/9MfZWKrk/shengcai-yiren-s.jpg)](https://postimg.cc/NyW5DN88)
+[![s.jpg](https://i.postimg.cc/Gpc7ccBs/s.jpg)](https://postimg.cc/RWDQdxLM)
 
 
 
